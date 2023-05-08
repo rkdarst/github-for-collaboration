@@ -1,5 +1,15 @@
-# How to edit this site
+# How to use Github for open information
 
-* Step 1
-* Step 2
-* Step 3
+## View history of a single page
+
+- Click the "Edit on GitHub" button, then find history from there.
+
+## Edit an existing page
+
+## Create a new page
+
+## Someone outside your organization: create a page
+
+## Review a change someone else submitted
+
+## Other syntax
