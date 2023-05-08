@@ -12,6 +12,7 @@
 
 * From the "Edit on GitHub" link, click the ✏ pencil icon above the text
   (right side, slightly down the page).
+  ![Arrow pointing to edit button](img/edit-button.png)
 * Copy some syntax that you can already see, if you want something.
 * Don't worry about making mistakes: it might look weird, you can
   check and see, and try again / ask someone else to take a look.
@@ -20,7 +21,7 @@
   no changes until reviewed and approved!
 
 ### The syntax?
-* https://www.markdown-cheatsheet.com/
+* <https://www.markdown-cheatsheet.com/>
 * You can try it out at [the myst-tools sandbox: myst-tools.org/sandbox](https://myst-tools.org/sandbox)
 
 
