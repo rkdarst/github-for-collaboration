@@ -25,7 +25,7 @@ collaborative?  That's what this talk is about.
 why-collaboration
 why-github
 how-to-edit
-future-proposals
+future
 ```
 
 
