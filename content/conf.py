@@ -15,6 +15,7 @@ author = 'The contributors'
 
 extensions = [
     'myst_parser',
+    'sphinx_rtd_theme_ext_color_contrast',
     ]
 
 templates_path = ['_templates']
