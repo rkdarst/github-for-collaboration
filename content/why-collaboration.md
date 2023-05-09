@@ -36,6 +36,7 @@
   * ... and merge them together
 * Open-source / no proprietary tools or software needed to do this
 * Everything can be done from a web browser.
+* Easy archival, for example to Zenodo.
 * **Easy enough for anyone to use it, with basic training**
   * but it's OK if it requires someone with more knowledge to set it
     up and occasionally do maintenance on it.

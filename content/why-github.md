@@ -76,6 +76,8 @@ This assumes using
 
     Setting it up and advanced fixing could be done also but better to
 	be done with a computer.
+* - Zenodo archiving
+  - Yes: can be made [automatic archival for each release](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 * - Easy enough for anyone with basic training
   - **???**
 
