@@ -46,12 +46,12 @@ This assumes using
     With other tools, you can do much more detailed inspections.
 * - Permanent identifiers for each version
   - Git provides this via the "version hash", like
-  `2d77d996bfe06048ba44d6914e423702d4b79a7e` (or short form,
-  `2d77d9`).
+   `70a98a7f3dbace9e8518723f5e6bfb252440a263` (or short form,
+   `70a98a7`).
 
     This will never change.
 
-    This used to be searchable on Github but I can't make it work
+    This is actually searchable on Github: [link](https://github.com/search?q=70a98a7f3dbace9e8518723f5e6bfb252440a263&type=commits)
 	anymore.
 * - Others can contribute changes
   - This is the "killer feature" of Github.  It works for non-code,
