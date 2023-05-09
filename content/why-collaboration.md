@@ -54,11 +54,20 @@ As far as we know, things such as Github are the only things that can
 do this.  [Why Github?](why-github)
 
 
-## Examples: what *can* we have in the end?
+## Examples: what does our final product look like?
 
 Many websites already archive all of the above:
 
 * [scicomp.aalto.fi](https://scicomp.aalto.fi): All is CC-BY,
-  interoperable, open-source, and anyone may contribute changes:
+  interoperable, open-source, and anyone may contribute changes.
+  * Note the history available at top.
+  * Many outsiders have contributed here
+  * Mostly edited by computers
 * [neic.no](https://neic.no): is a another website that uses
   Git/GitHub to do this.
+  * Looks nicer
+  * Hosted on Github Pages (for no cost)
+  * Edited via git, sometimes via a web browser
+
+
+## Next: Why Github?

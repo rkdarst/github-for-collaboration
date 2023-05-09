@@ -2,6 +2,9 @@
 
 ## What are git / Github?
 
+You *don't* need to know how each of these work individually.  But
+here's our overall map:
+
 * **git:** a version control system.  It tracks changes.
   * There are many different programs that use the same format.
   * git dominates the world now.
@@ -11,27 +14,32 @@
   * Also dominates the world (but many competitors)
   * Provides a lot of nice stuff for free
   * Proprietary (not open-source)
+* **Markdown:** a simpler way to write basic markup like **bold**,
+  **italics**, and [links](https://scicomp.aalto.fi/)
+  * [View a bigger example on GitHub](https://github.com/rkdarst/github-for-collaboration/blob/main/content/why-github.md?plain=1#L1)
+* **Sphinx (and many other tools):** convert source markdown (and
+  others) into a web site.
 * **Github Pages:** makes websites available on the web.
 
 
 ## Why not Github?
 * Github is proprietary and not open-source
-* Controlled by just one company (Microsoft)
-* It's very popular, and this dominance is not good for the world.
+* Controlled by just one company (Microsoft): vendor lock-in, it's
+  going to be bad for us some day.
+* It's very popular, and this dominance is not good for the world
+* Some promotion of this idea: <https://giveupgithub.org/>
 
+Alternatives exist: GitLab is the most popular one (gitlab.org and
+also organizations can self-host, some universities do:
+<https://version.aalto.fi>)
 
 ## Why git / Github ?  Comparison to our list
 
-This assumes using
-* git
-* GitHub
-* A standard text-to-website generator
-* Automatically building and deploying via Github Pages, just like
-  [this site](https://rkdarst.github.io/github-for-collaboration/).
+Using best practices of git + GitHub + myst-markdown + Sphinx + GitHub
+pages, we can get:
 
 ```{list-table}
 :header-rows: 1
-:name: test
 
 * - Feature request
   - Git equivalent
@@ -81,17 +89,17 @@ This assumes using
 * - Easy enough for anyone with basic training
   - **???**
 
-    This is the big question.  Historically, "no" - and that's why it's
-    not more common.
+    **This is the big question.  Historically, "no" - and that's why it's
+    not more common.**
 ```
 
 
 ## So how close are git and Github?
 
-* Based on the above, quite close.
-* One person who knows it has to set it up.
+* Based on the above, we are quite close.
+* As long as one person knows how to set it up and provide help.
 * Then many people can edit from the web browser.
-* **But is it usable enough?**
+* **But is it usable enough?  Can anyone manage to use this?**
 
 
 ```{admonition} Any experiences?
@@ -101,7 +109,9 @@ This assumes using
 
 ## Rest of this talk
 
-* Use this talk itself as an example.
-* Walk through doing some practical thing on a Github-hosted site.
-* See what the audience asks.
-* Discuss what else is needed.
+* Use this talk itself as an example: it is hosted on GitHub
+* Walk through doing some practical edits.
+* See what else the audience asks if we can do.
+* Discuss how to improve things in the future.
+* (do those things)
+* (start using this somewhere?)
