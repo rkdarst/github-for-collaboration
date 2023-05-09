@@ -52,3 +52,13 @@
 
 As far as we know, things such as Github are the only things that can
 do this.  [Why Github?](why-github)
+
+
+## Examples: what *can* we have in the end?
+
+Many websites already archive all of the above:
+
+* [scicomp.aalto.fi](https://scicomp.aalto.fi): All is CC-BY,
+  interoperable, open-source, and anyone may contribute changes:
+* [neic.no](https://neic.no): is a another website that uses
+  Git/GitHub to do this.
