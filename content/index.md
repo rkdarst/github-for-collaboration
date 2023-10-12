@@ -26,17 +26,17 @@ something missing?  Can there be a **C** in FAIR, that stands for
 
 why-collaboration
 why-github
-future
 ```
 
 ```{toctree}
-:maxdepth: 2
-:caption: Examples
+:maxdepth: 1
+:caption: Examples of doing things
 
 how-to-edit
 view-page-history
 submit-issue
 make-an-edit
+make-change-proposal
 review-change-proposal
 create-new-page
 ```
@@ -45,7 +45,7 @@ create-new-page
 :maxdepth: 2
 :caption: Wrap-up
 
-final-discussion
+future
 ```
 
 
@@ -54,5 +54,4 @@ final-discussion
 :caption: Scratchpad
 
 test-page
-
 ```

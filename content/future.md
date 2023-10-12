@@ -1,6 +1,6 @@
 # Future
 
-What comes next?
+What have we learned now?
 
 ## Benefits
 
@@ -21,6 +21,22 @@ What comes next?
 ```
 
 ## If you want to know more:
-* If at Aalto: Contact Aalto RSE, we can help you with anything here <https://scicomp.aalto.fi/rse>
-* Contact your local research software engineers or git users.  This is fairly standard stuff.
-* I don't know any resources dedicated to non-programmers.
+* If at Aalto: Contact Aalto RSE, we can help you with anything here
+  <https://scicomp.aalto.fi/rse/>
+  * Set up a new project
+  * Advice on existing projects
+* Contact your local research software engineers or git users.  This
+  is fairly standard stuff.
+* I don't know any resources dedicated to non-programmers, but there
+  should be.
+
+
+## Final discussion
+
+```{admonition} Questions?
+
+* Any questions from the audience?
+* Was this easy enough for simple things?
+* Are the features worth learning something better enough to do this
+  more easily?
+```

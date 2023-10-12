@@ -2,9 +2,8 @@
 
 ## Background
 
-Someone wants to contribute, but doesn't have permission.  This is OK!
-They can make their change and it goes for review.  This is how you
-review it.
+Once someone proposes a change, there are powerful ways to discuss it,
+request changes, and accept it.
 
 ## How to
 
@@ -21,3 +20,8 @@ review it.
   * Add comments and request changes
   * Make suggestions/changes directly yourself
   * **Close** it if you don't want it.
+
+## What we get
+
+* The reviewing part also becomes a way to form a community of
+  contributions.

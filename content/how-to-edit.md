@@ -1,9 +1,10 @@
 # How to use the Github web interface
 
-```{admonition} In this section, we try out the following on Github:
+In this section, we try out various things on Github, like editing a
+files or submitting comments.
 
-Think about:
-* Does this do something we need?
-* Is it esay enough to use?
+```{admonition} Think about:
+* Does this do something we can't do otherwise?
+* Is it easy enough to use?
 * Is it teachable?
 ```
